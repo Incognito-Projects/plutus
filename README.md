@@ -8,3 +8,4 @@ Please make changes in that branches only
 ## Tech-Stacks used
 
 - ReactJs,Tailwind
+- NodeJs for backend
