@@ -7,5 +7,4 @@ Please make changes in that branches only
 
 ## Tech-Stacks used
 
-- ReactJs,Tailwind for front-end development
-- NodeJs,ExpressJs,MongoDb for backend development
+
