@@ -7,7 +7,4 @@ Please make changes in that branches only
 
 ## Tech-Stacks used
 
-- ReactJs,Tailwind
 
-##What you can do to help us?
-You can freely contribute in this by creating a Pull Request
