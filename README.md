@@ -1,10 +1,8 @@
-# plutus
+# Getting Started with Create React App
 
-The main code is in master branch 
-Please make changes in that branches only
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##This project mainly serves users with better shopping experience 
+## Available Scripts
 
-## Tech-Stacks used
-
+In the project directory, you can run:
 
