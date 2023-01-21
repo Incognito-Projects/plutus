@@ -1,0 +1,11 @@
+html {
+  /* scroll-snap-type: y mandatory; */
+  /* overflow: hidden; */
+}
+.app_videos {
+  overflow: scroll;
+  /* scroll-snap-type: y mandatory; */
+}
+.app_videos::-webkit-scrollbar {
+  display: none;
+}
